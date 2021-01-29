@@ -127,7 +127,7 @@ class Fruit_testimonial extends Widget_Base {
                     'h3' => esc_html__( 'H3', 'fruit' ),
                     'h4' => esc_html__( 'H4', 'fruit' ),
                     'h5' => esc_html__( 'H5', 'fruit' ),
-                    'h6' => esc_html__( 'H6', 'fruit' ),
+
                 ),
             )
         );
